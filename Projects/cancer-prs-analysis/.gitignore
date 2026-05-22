@@ -1,0 +1,9 @@
+data/raw/
+*.gz
+*.zip
+*.vcp
+*.bam
+*.bed
+*.bim
+*.fam
+.DS_Store
