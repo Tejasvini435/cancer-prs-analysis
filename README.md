@@ -1,7 +1,7 @@
 # Breast Cancer Polygenic Risk Score Analysis
 
 ## Overview
-Reproducible R and Python pipeline analysing publicly available GWAS summary statistics from Michailidou et al. (2017, Nature), n = 122,977 cases, 105,974 controls. Calculating simulated PRS using logistic regression from the effect sizes obtained from Michailidou et al, 2017 achieving AUC = 0.542, consistent with modest predictive power expected for complex polygenic traits.
+Reproducible R and Python pipeline to analyse publicly available GWAS summary statistics from Michailidou et al. (2017, Nature), n = 122,977 cases, 105,974 controls. The aim was to simulate Polygenic Risk Scores using logistic regression from the effect sizes obtained from Michailidou et al, 2017 achieving AUC = 0.542, consistent with modest predictive power expected for complex polygenic traits.
 
 ## Results
 ![ROC Curve](Projects/cancer-prs-analysis/results/py_roc_curve.png)
